@@ -1,0 +1,2 @@
+# SENTIMENT ANALYSIS
+Sentiment analysis performed using twitter sample tweets from nltk. 
